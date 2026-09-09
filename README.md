@@ -25,6 +25,12 @@ Players can create a shop NPC, stock it with real items, publish listings with c
 - Optional LuckPerms support
 - Optional Flan claim permission support
 
+
+<img width="1381" height="581" alt="imagen" src="https://github.com/user-attachments/assets/d965027d-dc51-47f7-8484-96f91d3ac480" />
+<img width="1340" height="554" alt="imagen" src="https://github.com/user-attachments/assets/bd9d270c-be99-4eac-a525-b4a2c09fd720" />
+<img width="727" height="483" alt="imagen" src="https://github.com/user-attachments/assets/10652ecb-164c-4af3-82c1-de5b27100e34" />
+
+
 ## Requirements
 
 - Minecraft **1.21.1**
