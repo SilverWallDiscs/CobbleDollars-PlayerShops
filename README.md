@@ -3,6 +3,10 @@
 Server-side Fabric mod for **Minecraft 1.21.1** that adds persistent player-owned NPC shops powered by **CobbleDollars**.
 
 Players can create a shop NPC, stock it with real items, publish listings with custom prices, choose an NPC skin, and let other players purchase through CobbleDollars' native shop interface.
+<img width="271" height="523" alt="imagen" src="https://github.com/user-attachments/assets/8cc99478-c83e-4371-bf02-593d4aa9ad6a" />
+<img width="624" height="476" alt="imagen" src="https://github.com/user-attachments/assets/865ab0cf-22bc-47d7-8084-e2e310c46d9c" />
+<img width="359" height="453" alt="imagen" src="https://github.com/user-attachments/assets/656013fe-1288-4712-81c0-28f881c6d43d" />
+
 
 ## Features
 
