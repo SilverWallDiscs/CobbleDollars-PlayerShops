@@ -103,6 +103,7 @@ gradle build
 ```
 
 The tested 1.2.5 server JAR is included under [`dist/`](dist/).
+or [`Releases`](https://github.com/SilverWallDiscs/CobbleDollars-PlayerShops/releases)
 
 ## License
 
