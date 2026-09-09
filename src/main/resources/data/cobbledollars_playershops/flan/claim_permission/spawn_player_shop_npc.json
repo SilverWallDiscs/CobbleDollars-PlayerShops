@@ -1,0 +1,11 @@
+{
+  "default_value": false,
+  "global": false,
+  "global_default_value": true,
+  "gui_item": {
+    "id": "cobbledollars:cobble_merchant_spawn_egg"
+  },
+  "order": 70,
+  "require_explicit": false,
+  "required_mod": "cobbledollars"
+}

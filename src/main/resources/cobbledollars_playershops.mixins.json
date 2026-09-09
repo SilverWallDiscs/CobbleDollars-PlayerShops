@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.silver.cobbledollarsplayershops.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BuyHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "cobbledollars-playershops-refmap.json"
+}

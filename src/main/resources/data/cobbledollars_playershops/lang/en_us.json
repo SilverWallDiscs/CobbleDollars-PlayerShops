@@ -1,0 +1,4 @@
+{
+  "flan.permission.cobbledollars_playershops:spawn_player_shop_npc": "Allow Spawning Player Shops NPC",
+  "flan.permission.cobbledollars_playershops:spawn_player_shop_npc.desc.0": "Allows creating or moving PlayerShop NPCs inside this claim."
+}
